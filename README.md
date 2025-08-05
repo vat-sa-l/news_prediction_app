@@ -12,9 +12,6 @@ This web app allows users to:
 -  Receive results like:
   - “Real News”
   - “Fake News”
-- 🧠 Use the tool to quickly verify news authenticity before trusting or sharing it.
-
----
 
 ##  Features
 
